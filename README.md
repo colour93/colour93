@@ -10,8 +10,8 @@
 
 ## GitHub 统计信息
 
-[![colour93's GitHub stats](https://github-readme-stats.vercel.app/api?username=colour93&theme=github_dark&show_icons=true&locale=cn)](https://github.com/colour93)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colour93&theme=github_dark&show_icons=true&locale=cn&layout=compact)](https://github.com/colour93)
+[<img style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=colour93&theme=github_dark&show_icons=true&locale=cn" />](https://github.com/colour93)
+[<img style="height:165px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colour93&theme=github_dark&show_icons=true&locale=cn&layout=compact" />](https://github.com/colour93)
 
 > 统计信息卡片来自于 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 

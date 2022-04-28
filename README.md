@@ -15,6 +15,4 @@
 
 > 统计信息卡片来自于 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
-## 欢迎加入 小动物开发/运维/搞机交流群
-
-[<img style="width:10%;" src="https://p.qlogo.cn/gh/662083628/662083628/0"/>](https://dev.furl.ltd) 👈 点这儿加入 以及 [FurDevsCN](https://github.com/FurDevsCN)
+## 欢迎加入 [FurDevsCN](https://FurDevs.CN)

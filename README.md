@@ -10,9 +10,11 @@
 
 ## GitHub 统计信息
 
-[<img style="height:165px;" src="https://github-readme-stats.vercel.app/api?username=colour93&show_icons=true&locale=cn&bg_color=45,efdbff,fff1b8&text_color=383838&title_color=1890ff&icon_color=597ef7" />](https://github.com/colour93)
-[<img style="height:165px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colour93&layout=compact&locale=cn&bg_color=45,efdbff,fff1b8&text_color=383838&title_color=1890ff&icon_color=597ef7" />](https://github.com/colour93)
+[<img style="height:165px;" src="https://github-readme-stats-colour93.vercel.app/api?username=colour93&show_avatar=true&show_icons=true&locale=cn&bg_color=45,efdbff,fff1b8&text_color=383838&title_color=1890ff&icon_color=597ef7" />](https://github.com/colour93)
+[<img style="height:165px;" src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=colour93&layout=compact&locale=cn&bg_color=45,efdbff,fff1b8&text_color=383838&title_color=1890ff&icon_color=597ef7" />](https://github.com/colour93)
 
-> 统计信息卡片来自于 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> 统计信息卡片来自于 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 本人魔改后的 [colour93/github-readme-stats](https://github.com/colour93/github-readme-stats)
+> 
+> 增加了 **Stats Card 头像显示**
 
 ## 欢迎加入 [FurDevsCN](https://FurDevs.CN)

@@ -17,4 +17,4 @@
 > 
 > 增加了 **Stats Card 头像显示**
 
-## 欢迎加入 [FurDevsCN](https://FurDevs.CN)
+## [@FurDevsCN](https://FurDevs.CN)

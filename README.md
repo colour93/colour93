@@ -6,7 +6,7 @@
 
 是计算机苦手，基本写不太出入得了眼的东西，呜呜呜，不过我相信学习的道路是无止境的！
 
-主要擅长语言 JavaScript（Node.JS），因此 Web 前端 会些（不过审美不太行就是了），不过更喜欢用 Node.JS 写后端。
+主要擅长语言 JavaScript（NodeJS），因此 Web 前端 会些（不过审美不太行就是了），主要会 Vue3，在学 React，不过更喜欢用 NodeJS 写后端（比如 Express、Koa、Egg）。
 
 ## GitHub 统计信息
 
@@ -16,5 +16,3 @@
 > 统计信息卡片来自于 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 本人魔改后的 [colour93/github-readme-stats](https://github.com/colour93/github-readme-stats)
 > 
 > 增加了 **Stats Card 头像显示**
-
-## [@FurDevsCN](https://FurDevs.CN)

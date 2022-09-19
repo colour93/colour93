@@ -1,0 +1,42 @@
+:root {
+    --bg: #F1F1F2;
+    --bg-grey: #616161;
+    --link: #2196f3;
+    --link-hover: #1565c0;
+    --text: #000;
+    --text-secondary: #383838;
+
+}
+
+* {
+    transition: all 0.3s;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: '霞鹜文楷';
+    font-size: 20px;
+}
+
+a {
+    color: var(--link);
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+a:hover {
+    color: var(--link-hover);
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+
+    p {
+        font-size: 18px;
+    }
+
+}

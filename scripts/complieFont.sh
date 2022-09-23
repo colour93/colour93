@@ -1,0 +1,1 @@
+glyphhanger http://127.0.0.1:5173 --subset=./fonts/LXGWWenKai-Regular.ttf --formats=ttf

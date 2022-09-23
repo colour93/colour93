@@ -44,7 +44,7 @@ const italic = ref(/[\\u4E00-\\u9FFF]+/g.test(props.content));
 }
 
 p {
-    font-family: 'Maple Mono', '霞鹜文楷';
+    font-family: 'Maple Mono', '霞鹜文楷-Subset', '霞鹜文楷';
 }
 
 a {

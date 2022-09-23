@@ -8,6 +8,16 @@
 
 }
 
+@font-face {
+    font-family: 'Maple Mono';
+    src: url('/fonts/MapleMono-Regular.ttf');
+}
+
+@font-face {
+    font-family: '霞鹜文楷-Subset';
+    src: url('/fonts/LXGWWenKai-Regular-subset.ttf');
+}
+
 * {
     transition: all 0.3s;
 }
@@ -18,7 +28,7 @@ body {
 }
 
 p {
-    font-family: '霞鹜文楷';
+    font-family: '霞鹜文楷-Subset', '霞鹜文楷';
     font-size: 20px;
 }
 

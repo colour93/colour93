@@ -34,7 +34,7 @@ jobs:
       run: npm i
 
     - name: Vite build 🗜️
-      run: npm run build:with-fonts
+      run: npm run build
 
     - name: Deploy to Gtihub Pages 🚀
       uses: JamesIves/github-pages-deploy-action@v4

@@ -5,12 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "complieFonts": "glyphhanger http://127.0.0.1:5173 --subset=./fonts/LXGWWenKai-Regular.ttf --formats=ttf",
-    "prebuild": "node ./scripts/prebuild.js",
+    "compileFonts": "glyphhanger http://127.0.0.1:5173 --subset=./fonts/LXGWWenKai-Regular.ttf --formats=ttf",
     "build": "vite build",
+    "build:with-fonts": "node ./scripts/build-with-fonts.js",
     "preview": "vite preview"
   },
   "dependencies": {
+    "npm": "^9.7.2",
     "vue": "^3.2.37"
   },
   "devDependencies": {

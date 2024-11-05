@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "compileFonts": "glyphhanger http://localhost:5173/ --subset=./fonts/LXGWWenKai-Regular.ttf --formats=ttf",
+    "compileFonts": "glyphhanger http://localhost:5173/ --subset=./fonts/LXGWWK-R.ttf --formats=ttf",
     "build": "vite build",
     "build:with-fonts": "node ./scripts/build-with-fonts.js",
     "preview": "vite preview"
